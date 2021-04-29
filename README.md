@@ -6,3 +6,7 @@ Welcome to APSSDC Data Analysis Using Python Training this repository consists o
 
 
 <a href="https://drive.google.com/drive/folders/1bNadneAhbcVaNcMZO4OJO6VdCbOPzpPE?usp=sharing">Recorded Sessions link</a>
+
+[Numpy Official Web Site](https://numpy.org/doc/stable/)
+
+[Pands Official Web Site](https://pandas.pydata.org/docs/getting_started/overview.html)
